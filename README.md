@@ -1,2 +1,11 @@
 # hello-world
-Learning how to create a repository
+
+Hello World!
+
+Mega here, I like rice and fried toufu. Watching is one of my hobby.
+
+Thanks for visiting.
+
+Regards,
+
+Mega
